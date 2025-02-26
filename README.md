@@ -2,7 +2,7 @@
 
 Submitted by: **Daniel Olson**
 
-**Flixster 3** is a movie browsing app that allows users to browse ... [TODO] 
+**Flixster 3** is a movie browsing app that allows users to browse popular actors and their most prominent work. 
 
 Time spent: **4** hours spent in total
 
